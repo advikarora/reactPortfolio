@@ -1,0 +1,12 @@
+.about {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+  }
+  
+  .about img {
+    max-width: 500px;
+  }
+  .about h1 {
+    margin-bottom: 20px;
+  }
